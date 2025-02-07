@@ -1,7 +1,49 @@
-pandas 
-numpy 
+# Default
+hyperopt
+ipywidgets
 matplotlib
-seaborn
-scikit-learn
-wordcloud
+mlflow
 nltk
+numpy
+numpyencoder
+pandas
+python-dotenv
+ray[air]
+scikit-learn
+snorkel
+SQLAlchemy
+torch
+transformers
+
+# Notebook
+cleanlab
+jupyterlab
+lime
+seaborn
+wordcloud
+
+# Documentation
+mkdocs
+mkdocstrings
+mkdocstrings[python]
+
+# Styling
+black
+flake8
+Flake8-pyproject
+isort
+pyupgrade
+
+# Testing
+great-expectations
+pytest
+pytest-cov
+
+# Development
+fastapi
+pre-commit
+typer
+
+# # Deployment
+# anyscale==0.5.131
+
